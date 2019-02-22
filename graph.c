@@ -5,13 +5,7 @@
 #include <stdbool.h>
 #include <assert.h>	
 #include <time.h>
-
-typedef struct graph{
-
-
-};
-long ShortestPathLength(graph g, ...)
-{
+namespace std;
 
 }
 int main()
